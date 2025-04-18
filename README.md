@@ -9,7 +9,7 @@ output will pause until sustained support emerges.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 # **`Claude Self Audit Proof`**
 
-# [**`Published Chat`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303)
+# [**`Pubished Publicly via Anthropic Chat Share`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303)
 <img width="842" alt="image" src="https://github.com/user-attachments/assets/a4df395a-38d3-4ec3-b125-5391c606bb98" />
 
 
