@@ -20,11 +20,11 @@ output will pause until sustained support emerges.
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-18**
 
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
-
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/5ab77462-a93f-4bef-bb92-ee58fc9e9c34" />
 
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/ff63e030-568f-4a83-b788-68ed5ce4be71" />
+
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
 
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/590a490a-a2e2-47a8-8a66-576d50cbf4a3" />
 
