@@ -23,7 +23,7 @@ output will pause until sustained support emerges.
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/cefadb7c-2203-4ae0-bb76-c36de5433c05" />
 
-<img width="882" alt="image" src="https://github.com/user-attachments/assets/a40595c6-8194-4a0e-9cc6-0fb8d6f59c67" />
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/eba6b01a-0f62-48dc-8224-70bddd1b9132" />
 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/ee5b9a2e-f1d9-400e-87ca-6ae233839503" />
 
