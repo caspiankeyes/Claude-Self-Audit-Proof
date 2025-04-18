@@ -10,7 +10,8 @@ output will pause until sustained support emerges.
 # **`Claude Self Audit Proof`**
 
 # [**`Pubished Publicly via Anthropic Chat Share`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303)
-<img width="842" alt="image" src="https://github.com/user-attachments/assets/a4df395a-38d3-4ec3-b125-5391c606bb98" />
+
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/7bd09593-c522-4264-985a-add1b445ab1d" />
 
 
 </div>
