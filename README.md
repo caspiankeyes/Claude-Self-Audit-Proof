@@ -25,7 +25,9 @@ output will pause until sustained support emerges.
 
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/a40595c6-8194-4a0e-9cc6-0fb8d6f59c67" />
 
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/5785dec7-969c-46a0-b10e-b6e5e1ab84ff" />
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/ee5b9a2e-f1d9-400e-87ca-6ae233839503" />
+
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/7a0e39cb-e09c-4993-8d0c-237025e89de9" />
 
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
 
