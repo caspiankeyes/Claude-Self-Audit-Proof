@@ -20,6 +20,7 @@ output will pause until sustained support emerges.
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-18**
 
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
 
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/5ab77462-a93f-4bef-bb92-ee58fc9e9c34" />
 
@@ -33,7 +34,6 @@ output will pause until sustained support emerges.
 
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/1912feba-20ff-4abd-ac1f-a8706a39b3a8" />
 
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/bc619e1e-6c81-4802-958a-fa3ce94acbed" />
 
