@@ -11,6 +11,13 @@ output will pause until sustained support emerges.
 
 # Pubished Publicly [**`1`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303) | [**`2`**](https://claude.ai/share/427e50b7-43d8-4a22-9158-e039db7a6463)
 
+
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-18**
+
+
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/5ab77462-a93f-4bef-bb92-ee58fc9e9c34" />
 
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/ff63e030-568f-4a83-b788-68ed5ce4be71" />
