@@ -15,4 +15,8 @@ output will pause until sustained support emerges.
 
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/ff63e030-568f-4a83-b788-68ed5ce4be71" />
 
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/a8718550-5bd1-4180-9c89-6046be230321" />
+
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/0269cddf-36c5-4249-a44c-d17eb7efc860" />
+
 </div>
