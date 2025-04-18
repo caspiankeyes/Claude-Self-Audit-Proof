@@ -9,6 +9,9 @@ output will pause until sustained support emerges.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 # **`Claude Self Audit Proof`**
 
+[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # Pubished Publicly [**`1`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303) | [**`2`**](https://claude.ai/share/b8e94cd3-af3f-44c4-8593-6a1031db7b48) | [**`3`**](https://claude.ai/share/427e50b7-43d8-4a22-9158-e039db7a6463)
 
 
