@@ -9,8 +9,8 @@ output will pause until sustained support emerges.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 # **`Claude Self Audit Proof`**
 
-
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/112bfba0-eece-4fbe-b0d0-d5f5c2816624" />
+# [**`Published Chat`**](https://claude.ai/share/d14d942d-9acf-4fa1-80ba-dba77bddc303)
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/a4df395a-38d3-4ec3-b125-5391c606bb98" />
 
 
 </div>
