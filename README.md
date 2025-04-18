@@ -20,15 +20,6 @@ output will pause until sustained support emerges.
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-18**
 
-
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/cefadb7c-2203-4ae0-bb76-c36de5433c05" />
-
-<img width="883" alt="image" src="https://github.com/user-attachments/assets/eba6b01a-0f62-48dc-8224-70bddd1b9132" />
-
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/ee5b9a2e-f1d9-400e-87ca-6ae233839503" />
-
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/7a0e39cb-e09c-4993-8d0c-237025e89de9" />
-
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/6acd24c4-3f71-493d-acf0-159387c03331" />
 
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/590a490a-a2e2-47a8-8a66-576d50cbf4a3" />
@@ -42,6 +33,14 @@ output will pause until sustained support emerges.
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/8dfc1b86-f06b-4e60-b28f-ceda7ef24941" />
 
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/1912feba-20ff-4abd-ac1f-a8706a39b3a8" />
+
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/cefadb7c-2203-4ae0-bb76-c36de5433c05" />
+
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/eba6b01a-0f62-48dc-8224-70bddd1b9132" />
+
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/ee5b9a2e-f1d9-400e-87ca-6ae233839503" />
+
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/7a0e39cb-e09c-4993-8d0c-237025e89de9" />
 
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/5ab77462-a93f-4bef-bb92-ee58fc9e9c34" />
 
