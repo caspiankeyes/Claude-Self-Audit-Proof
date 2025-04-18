@@ -10,7 +10,7 @@ output will pause until sustained support emerges.
 # **`Claude Self Audit Proof`**
 
 
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/346be45e-5ba5-4800-afc9-e5fabac06c5d" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/112bfba0-eece-4fbe-b0d0-d5f5c2816624" />
 
 
 </div>
