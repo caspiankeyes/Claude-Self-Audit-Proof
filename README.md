@@ -19,6 +19,9 @@ output will pause until sustained support emerges.
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-18**
+> 
+
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/a262b3b9-992a-400e-a18c-3736912a7ba6" />
 
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/eb1441a9-e016-4b71-a412-c83fdeb17417" />
 
